@@ -2,6 +2,7 @@
 A collection of reading lists
 
 - [Richard Branson](#richard-branson)
+- [Ernest Hemingway](#ernest-hemingway)
 - [Neil deGrasse Tyson](#neil-degrasse-tyson)
 
 ## Richard Branson
@@ -71,6 +72,52 @@ A collection of reading lists
  - *Lean In* - Sheryl Sandberg
  - *Ending the War on Drugs*
 
+ [Source](https://www.virgin.com/richard-branson/my-top-65-books-read-lifetime)
+
+## Ernest Hemingway
+ - *The Common Reader* - Virginia Woolf
+ - *House Divided* - Ben Ames Williams
+ - *The Republic* - Charles Beard
+ - *Napoleon’s Invasion of Russia* - Eugene Tarle
+ - *How Young You Look* - Peggy Wood
+ - *African Hunting* - William Charles Baldwin
+ - *Collected Poems* - T.S. Eliot
+ - *Ulysses* - James Joyce
+ - *Dubliners* - James Joyce
+ - *A Portrait of the Artist As a Young Man* - James Joyce
+ - *King Lea* - Shakespeare
+ - *The Open Boat and Other Stories* - Stephen Crane
+ - *The Red Badge of Courage* - Stephen Crane
+ - *Madame Bovary* - Gustave Flaubert
+ - *Sentimental Education* - Gustave Flaubert
+ - *The Red and the Black* - Stendahl
+ - *Of Human Bondage* - W. Somerset Maugham
+ - *Anna Karenina* - Leo Tolstoy
+ - *War and Peace* - Leo Tolstoy
+ - *Buddenbrooks* - Thomas Mann
+ - *Hail and Farewell* - George Moore
+ - *The Brothers Karamazov* - Fyodor Dostoevsky
+ - *The Enormous Room* - E.E. Cummings
+ - *Wuthering Heights* - Emily Bronte
+ - *Far Away and Long Ago* - W. H. Hudson
+ - *The America* - Henry James
+ - *Complete Short Stories* - Henry James
+ - *Mr. Midshipman Easy* - Frederick Marryat
+ - *Frank Mildmay* - Frederick Marryat
+ - *Peter Simple* - Frederick Marryat
+ - *Complete Works* - Rudyard Kipling
+ - *Tom Jones* - Henry Fielding
+ - *Joseph Andrews* - Henry Fielding
+ - *Adventures of Huckleberry Finn* - Mark Twain
+ - *Autobiographies* - W. B. Yeats
+ - *A Sportsman’s Sketches* - Ivan Turgenev
+ - *Fathers and Sons* - Ivan Turgenev
+ - *Winesburg, Ohio* - Sherwood Anderson
+ - *Queen Margot* - Alexandre Dumas
+ - *In Search of Lost Time* - Marcel Proust
+ 
+ [Source](http://www.artofmanliness.com/2015/03/05/ernest-hemingway-reading-list/)
+
 ## Neil deGrasse Tyson
  - *The Bible*
  - *The System of the World* - Isaac Newton
@@ -80,3 +127,10 @@ A collection of reading lists
  - *The Wealth of Nations* - Adam Smith
  - *The Art of War* - Sun Tzu
  - *The Prince* - Machiavelli
+ 
+ [Source](https://www.brainpickings.org/2014/12/29/neil-degrasse-tyson-reading-list/)
+
+#Contributing
+ - The subject should be an internationally well known person.
+ - You should supply at least one source for the subject's list.
+ - Commits should be titled `ADD | UPDATE <subject's name>`. See existing commits for examples.
