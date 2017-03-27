@@ -1,9 +1,9 @@
 # readinglist
 A collection of reading lists
 
-- [Neil DeGrasse Tyson](#neil-degrasse-tyson)
+- [Neil deGrasse Tyson](#neil-degrasse-tyson)
 
-## Neil DeGrasse Tyson
+## Neil deGrasse Tyson
   - *The Bible*
   - *The System of the World* by Isaac Newton
   - *On the Origin of Species* by Charles Darwin
